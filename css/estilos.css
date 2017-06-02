@@ -5,7 +5,9 @@
 }
 
 
-
+.well-sm__comando{width: 25%;}
+.well-sm__funcion{width: 60%;}
+.well-sm__alias{width: 15%;}
 
 
 .nav-tabs{
