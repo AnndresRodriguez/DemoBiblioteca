@@ -1,29 +1,22 @@
 
-.well{
+.jumbotron{ background-color: steelblue; color: white}
+.well{ background-color: white;}
+.well-sm__comando{ width: 25%;}
+.well-sm__funcion{ width: 60%;}
+.well-sm__alias{ width: 15%;}
 
-    background-color: white;
-}
+.nav-tab-css:hover{ background-color: steelblue; }
+.nav-tabs{ margin-bottom: 2em; font-size:1.5em; }
+
+[data-js="nab-tab-js"]:focus{ background-color: steelblue; }
 
 
-.well-sm__comando{width: 25%;}
-.well-sm__funcion{width: 60%;}
-.well-sm__alias{width: 15%;}
-
-
-.nav-tabs{
-
-    margin-bottom: 2em;
-    font-size:1.5em;
-
-}
 
 
 .container__aside{
     
     width: 10%;
     font-size: 1.5em;
-   
-
 }
 
 .container__article{
