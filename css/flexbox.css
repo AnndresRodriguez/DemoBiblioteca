@@ -1,0 +1,18 @@
+.flexible{ display: flex;}
+.flexible-column{display: flex;flex-direction: column;flex-wrap: wrap;}
+.flexible-row{display: flex; flex-direction: row; flex-wrap: wrap;}
+.justify-center{ justify-content: center; }
+.justify-between { justify-content: space-between; }
+.justify-around { justify-content: space-around; }
+.justify-start { justify-content: flex-start; }
+.justify-end { justify-content: flex-end; }
+.items-start{ align-items: flex-start;}
+.items-end{align-items: flex-end;}
+.items-center{ align-items: center; }
+.items-stretch {align-items: stretch;}
+.content-start { align-content: flex-start; }
+.content-end { align-content: flex-end; }
+.content-between { align-content: space-between; }
+.content-around { align-content: space-around; }
+
+

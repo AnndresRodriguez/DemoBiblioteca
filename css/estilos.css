@@ -1,37 +1,10 @@
 
-.flexible-column{
-
-    display: flex;
-    flex-direction: column;
-    flex-wrap: wrap;
-
-}
-
-.flexible-row{
-
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-
-}
-
-.space-between{
-
-    justify-content: space-between;
-
-}
-
-.space-around{
-
-    justify-content: space-around;
-
-
-}
-
 .well{
 
     background-color: white;
 }
+
+
 
 
 
